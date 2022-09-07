@@ -1,3 +1,5 @@
+https://netflixclone2-4b553.web.app - this is a link to view the hosted application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
